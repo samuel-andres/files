@@ -1,7 +1,7 @@
 {
   "version": 8,
   "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
-  "sprite": "https://branding.vitruvi.cc/mapbox/sprites-v6",
+  "sprite": "https://raw.githubusercontent.com/samucancld/files/main/sprites-v6",
   "sources": {
     "mapbox://mapbox.satellite": {
       "url": "mapbox://mapbox.satellite",
