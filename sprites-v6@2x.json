@@ -367,6 +367,14 @@
     "y": 501,
     "sdf": true
   },
+  "flag-ticket": {
+    "width": 45,
+    "height": 45,
+    "x": 203,
+    "y": 201,
+    "pixelRatio": 1,
+    "sdf": true
+  },
   "flag1": {
     "height": 100,
     "pixelRatio": 1,
